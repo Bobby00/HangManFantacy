@@ -1,0 +1,28 @@
+#play {
+  padding: 10px;
+  border-radius: 15px;
+ box-shadow: 0 9px #999;
+ background-color: #004d00;
+ color: white;
+
+
+}
+#form {
+  margin-top: 70px;
+
+
+}
+.container {
+  text-align: center;
+  background-image: url(../img/1.png);
+  background-repeat: no-repeat;
+  height:300px;
+  width:60%;
+  color: white;
+  margin-left: 200px;
+  border-radius: 100px;
+  font-size: 30px;
+}
+body {
+  font-family: 'Lobster', cursive;
+}
